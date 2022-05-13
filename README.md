@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BaryMcTreeguy
+- 👀 I’m interested in coding HTML and CSS
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on other HTML and CSS projects
